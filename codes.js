@@ -1,3 +1,4 @@
+//an object created called countryList with all the currencies as keys and country codes as values
 const countryList = {
   AED: "AE",
   AFN: "AF",
